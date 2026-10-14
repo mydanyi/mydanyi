@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 132" width="960" height="132" role="img" aria-labelledby="card-title card-desc">
+  <title id="card-title">scrcpy-fnos — 在浏览器里操控安卓</title>
+  <desc id="card-desc">项目卡片：scrcpy-fnos，在浏览器里操控安卓</desc>
+
+  <rect x="1" y="1" width="958" height="130" rx="16" fill="#0d1117" stroke="#303b4d" stroke-width="2"/>
+  <rect x="20" y="22" width="88" height="88" rx="14" fill="#101824" stroke="#303b4d" stroke-width="1.5"/>
+
+  <g fill="none" stroke="#8fcf9f" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="34" width="32" height="62" rx="7"/>
+    <path d="M53.5 43.5 L74.5 43.5 L73.5 81 L54.5 81 Z"/>
+    <path d="M60 39 L68 39"/>
+    <circle cx="64" cy="90" r="1.6"/>
+    <path d="M84 42.5 A18 18 0 0 1 83.5 61.5"/>
+    <path d="M90 47.5 A10 10 0 0 1 89.6 56.5"/>
+  </g>
+
+  <text x="132" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="26" font-weight="600" fill="#e6edf3">scrcpy-fnos</text>
+  <text x="132" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="17" fill="#9aa7b8">在浏览器里操控安卓</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" width="960" height="280" role="img" aria-labelledby="interests-title interests-desc">
+  <title id="interests-title">正在折腾</title>
+  <desc id="interests-desc">正在折腾：掌机适配、飞牛应用、机器人</desc>
+
+  <rect x="1" y="1" width="958" height="278" rx="16" fill="#0d1117" stroke="#303b4d" stroke-width="2"/>
+
+  <text x="480" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="26" font-weight="600" fill="#e6edf3">正在折腾</text>
+  <path d="M424 74 L536 74" fill="none" stroke="#303b4d" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="70" y="104" width="260" height="146" rx="14" fill="#101824" stroke="#303b4d" stroke-width="2"/>
+  <g fill="none" stroke="#8fb8e6" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="166" y="132" width="68" height="32" rx="10"/>
+    <rect x="185" y="138" width="30" height="20" rx="3"/>
+    <path d="M175.5 141 L175.5 155"/>
+    <path d="M168.5 148 L182.5 148"/>
+    <circle cx="224.5" cy="143.5" r="2.6"/>
+    <circle cx="224.5" cy="152.5" r="2.6"/>
+  </g>
+  <text x="200" y="216" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="24" fill="#8fb8e6">掌机适配</text>
+
+  <rect x="350" y="104" width="260" height="146" rx="14" fill="#101824" stroke="#303b4d" stroke-width="2"/>
+  <g fill="none" stroke="#8fcf9f" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="450" y="130" width="60" height="46" rx="10"/>
+    <path d="M450 143.5 L510 143.5"/>
+    <circle cx="458" cy="136.5" r="2"/>
+    <circle cx="466" cy="136.5" r="2"/>
+    <path d="M480 152 L480 166.5"/>
+    <path d="M474.5 158 L480 152.5 L485.5 158"/>
+  </g>
+  <text x="480" y="216" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="24" fill="#8fcf9f">飞牛应用</text>
+
+  <rect x="630" y="104" width="260" height="146" rx="14" fill="#101824" stroke="#303b4d" stroke-width="2"/>
+  <g fill="none" stroke="#b8a6e0" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="740" y="134" width="40" height="34" rx="11"/>
+    <path d="M751 134 L747.5 125"/>
+    <path d="M769 134 L772.5 125"/>
+    <circle cx="747" cy="124" r="2.2"/>
+    <circle cx="773" cy="124" r="2.2"/>
+    <path d="M740 147 L736 147.5"/>
+    <path d="M780 147 L784 147.5"/>
+    <path d="M752 156 q 8 6 16 0"/>
+  </g>
+  <circle cx="752.5" cy="148" r="2.8" fill="#b8a6e0"/>
+  <circle cx="767.5" cy="148" r="2.8" fill="#b8a6e0"/>
+  <text x="760" y="216" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="24" fill="#b8a6e0">机器人</text>
+</svg>

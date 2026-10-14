@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 132" width="960" height="132" role="img" aria-labelledby="card-title card-desc">
+  <title id="card-title">Shio — 让机器人自然参与日常</title>
+  <desc id="card-desc">项目卡片：Shio，让机器人自然参与日常</desc>
+
+  <rect x="1" y="1" width="958" height="130" rx="16" fill="#0d1117" stroke="#303b4d" stroke-width="2"/>
+  <rect x="20" y="22" width="88" height="88" rx="14" fill="#101824" stroke="#303b4d" stroke-width="1.5"/>
+
+  <g fill="none" stroke="#b8a6e0" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="42" y="44" width="44" height="38" rx="12"/>
+    <path d="M54.5 44 L50 33.5"/>
+    <path d="M73.5 44 L78 33.5"/>
+    <circle cx="50" cy="31.5" r="2.5"/>
+    <circle cx="78" cy="31.5" r="2.5"/>
+    <path d="M42 58 L37 58.5"/>
+    <path d="M86 58 L91 58.5"/>
+    <path d="M56 69 q 8 7 16 0"/>
+  </g>
+  <circle cx="55" cy="60" r="3" fill="#b8a6e0"/>
+  <circle cx="73" cy="60" r="3" fill="#b8a6e0"/>
+
+  <text x="132" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="26" font-weight="600" fill="#e6edf3">Shio</text>
+  <text x="132" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif" font-size="17" fill="#9aa7b8">让机器人自然参与日常</text>
+</svg>

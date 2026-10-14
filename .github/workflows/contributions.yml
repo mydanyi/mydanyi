@@ -1,0 +1,49 @@
+name: 更新贡献日历
+
+on:
+  schedule:
+    # 每日 UTC 00:10
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/render-calendar.mjs
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contributions-calendar
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 生成贡献日历
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/render-calendar.mjs
+
+      - name: 提交变化
+        run: |
+          if [ -n "$(git status --porcelain assets/contributions.svg)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/contributions.svg
+            git commit -m "chore: 更新贡献日历"
+            git push
+          else
+            echo "贡献日历无变化，跳过提交"
+          fi
