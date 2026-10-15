@@ -37,3 +37,7 @@
 <p align="center">
   <img src="assets/contributions.svg" alt="贡献日历" width="100%">
 </p>
+
+<p align="center">
+  <a href="assets/sponsor-support.png"><img src="assets/sponsor-support.png" alt="支持单翼的开源项目：支付宝和微信赞助二维码" width="100%"></a>
+</p>
