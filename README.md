@@ -37,7 +37,3 @@
 <p align="center">
   <img src="assets/contributions.svg" alt="贡献日历" width="100%">
 </p>
-
-<p align="center">
-  <img src="assets/interests.svg" alt="正在折腾：掌机适配、飞牛应用、机器人" width="100%">
-</p>
