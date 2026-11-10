@@ -1,9 +1,6 @@
 <p align="center">
   <img src="assets/hero.png" alt="单翼 @mydanyi · 折腾开源、掌机与自托管" width="100%">
 </p>
-
-<h2 align="center">精选项目</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
